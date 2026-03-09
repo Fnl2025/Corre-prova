@@ -56,4 +56,3 @@ jobs:
           path: |
             bin/*.apk
           if-no-files-found: error
-
